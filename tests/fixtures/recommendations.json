@@ -1,0 +1,254 @@
+[
+ {
+  "id": 8463540,
+  "recommended_publication_id": 9047553,
+  "recommending_publication_id": 10025,
+  "created_at": "2026-06-08T22:00:49.970Z",
+  "updated_at": "2026-06-08T22:02:49.682Z",
+  "blurb_active": false,
+  "description": "Brie and Camille's profiles on Cursor, Notion, and Eigen are three of the best things I've read about startup culture in recent memory. Now that they have their own publication, I read everything Early Days sends.  ",
+  "email_sent_at": "2026-06-12T07:32:10.867Z",
+  "recommendedPublication": {
+   "id": 9047553,
+   "name": "early days",
+   "subdomain": "earlydaysbymerlin",
+   "custom_domain": null,
+   "custom_domain_optional": false,
+   "hero_text": "learn about silicon valley companies, people, jobs, and ideas through the eyes of two startup junkies.",
+   "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/1e2e78d1-1693-48ab-9755-ea88a06e2f23_1080x1080.png",
+   "author_id": 510813323,
+   "primary_user_id": 510813323,
+   "theme_var_background_pop": "#FF6719",
+   "created_at": "2026-05-13T23:34:44.445Z",
+   "email_from_name": "early days",
+   "copyright": "Merlin Inc.",
+   "founding_plan_name": null,
+   "community_enabled": true,
+   "invite_only": false,
+   "payments_state": "disabled",
+   "language": null,
+   "explicit": false,
+   "homepage_type": "newspaper",
+   "is_personal_mode": false,
+   "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/8971d53f-8c36-4007-b349-981b8b70b51c_2765x666.png",
+   "author": {
+    "id": 510813323,
+    "name": "Merlin",
+    "handle": "merlindotinc",
+    "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/03e8460e-961a-4501-8797-cb52f1eaaa42_322x322.png",
+    "bio": null,
+    "profile_set_up_at": null,
+    "reader_installed_at": null
+   },
+   "primaryUser": {
+    "id": 510813323,
+    "name": "Merlin",
+    "handle": "merlindotinc",
+    "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/03e8460e-961a-4501-8797-cb52f1eaaa42_322x322.png",
+    "bio": null,
+    "profile_set_up_at": null,
+    "reader_installed_at": null
+   },
+   "displayProfile": {
+    "userId": 510813323,
+    "name": "Merlin",
+    "handle": "merlindotinc",
+    "photo_url": "https://substackcdn.com/image/fetch/$s_!VKEp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03e8460e-961a-4501-8797-cb52f1eaaa42_322x322.png"
+   },
+   "author_name": "Merlin",
+   "author_photo_url": "https://substackcdn.com/image/fetch/$s_!VKEp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03e8460e-961a-4501-8797-cb52f1eaaa42_322x322.png"
+  },
+  "list_ids": [
+   0
+  ]
+ },
+ {
+  "id": 6541138,
+  "recommended_publication_id": 3117536,
+  "recommending_publication_id": 10025,
+  "created_at": "2025-09-26T19:27:26.317Z",
+  "updated_at": "2025-09-26T19:27:26.317Z",
+  "blurb_active": false,
+  "description": "Some of the most mind-bending conversations on the internet with some of the smartest people in the world.",
+  "email_sent_at": "2025-09-30T07:32:08.810Z",
+  "recommendedPublication": {
+   "id": 3117536,
+   "name": "Curt Jaimungal",
+   "subdomain": "curtjaimungal",
+   "custom_domain": null,
+   "custom_domain_optional": false,
+   "hero_text": "Exploring theoretical physics, consciousness, AI, and God, rigorously and playfully. Members get every episode days early.",
+   "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/37c0c4c3-afb2-4333-afc5-a70aa3c8c18e_888x888.png",
+   "author_id": 8554367,
+   "primary_user_id": 8554367,
+   "theme_var_background_pop": "#FF6719",
+   "created_at": "2024-10-03T17:45:53.869Z",
+   "email_from_name": "Curt Jaimungal",
+   "copyright": "Curt Jaimungal",
+   "founding_plan_name": "Founding Member",
+   "community_enabled": true,
+   "invite_only": false,
+   "payments_state": "enabled",
+   "language": null,
+   "explicit": false,
+   "homepage_type": "magaziney",
+   "is_personal_mode": false,
+   "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/b747d0fa-68d9-4e0f-af9f-60c293cb8a8e_2100x400.png",
+   "author": {
+    "id": 8554367,
+    "name": "Curt Jaimungal",
+    "handle": "curtjaimungal",
+    "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/c8986897-4ebc-48ae-990a-12b40ab673d8_888x888.jpeg",
+    "bio": "Exploring theoretical physics, consciousness, philosophy, AI, and God in a technical manner.",
+    "profile_set_up_at": "2024-10-03T17:45:33.318Z",
+    "reader_installed_at": "2024-10-06T20:15:52.788Z"
+   },
+   "primaryUser": {
+    "id": 8554367,
+    "name": "Curt Jaimungal",
+    "handle": "curtjaimungal",
+    "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/c8986897-4ebc-48ae-990a-12b40ab673d8_888x888.jpeg",
+    "bio": "Exploring theoretical physics, consciousness, philosophy, AI, and God in a technical manner.",
+    "profile_set_up_at": "2024-10-03T17:45:33.318Z",
+    "reader_installed_at": "2024-10-06T20:15:52.788Z"
+   },
+   "displayProfile": {
+    "userId": 8554367,
+    "name": "Curt Jaimungal",
+    "handle": "curtjaimungal",
+    "photo_url": "https://substackcdn.com/image/fetch/$s_!lKNv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc8986897-4ebc-48ae-990a-12b40ab673d8_888x888.jpeg"
+   },
+   "author_name": "Curt Jaimungal",
+   "author_photo_url": "https://substackcdn.com/image/fetch/$s_!lKNv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc8986897-4ebc-48ae-990a-12b40ab673d8_888x888.jpeg"
+  },
+  "list_ids": [
+   0
+  ]
+ },
+ {
+  "id": 3190949,
+  "recommended_publication_id": 1818323,
+  "recommending_publication_id": 10025,
+  "created_at": "2024-06-28T12:30:01.421Z",
+  "updated_at": "2024-06-28T12:30:01.421Z",
+  "blurb_active": false,
+  "description": "A fascinating look into how the sausage gets made featuring interviews with insiders from the CIA, DARPA, and more. Strong recommend. ",
+  "email_sent_at": "2024-07-02T07:32:21.843Z",
+  "recommendedPublication": {
+   "id": 1818323,
+   "name": "Statecraft",
+   "subdomain": "statecraftnotes",
+   "custom_domain": "www.statecraft.pub",
+   "custom_domain_optional": false,
+   "hero_text": "How policymakers get things done",
+   "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/f4ed3ff9-0217-4c49-8793-be01ef6b0943_807x807.png",
+   "author_id": 130736189,
+   "primary_user_id": 130736189,
+   "theme_var_background_pop": "#6C0095",
+   "created_at": "2023-07-20T20:42:04.905Z",
+   "email_from_name": "Statecraft",
+   "copyright": "Santi Ruiz",
+   "founding_plan_name": null,
+   "community_enabled": true,
+   "invite_only": false,
+   "payments_state": "disabled",
+   "language": null,
+   "explicit": false,
+   "homepage_type": "newspaper",
+   "is_personal_mode": false,
+   "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/32eab58f-5f94-4c87-8044-7fe3c5f867db_5377x1025.png",
+   "author": {
+    "id": 130736189,
+    "name": "Santi Ruiz",
+    "handle": "santir",
+    "photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F056cf268-92a4-4a07-b355-aeaeebaf8e57_2500x2500.png",
+    "bio": "Senior Editor @ ifp.org, writes statecraft.pub",
+    "profile_set_up_at": "2023-07-06T21:16:45.145Z",
+    "reader_installed_at": "2023-08-31T19:26:12.860Z"
+   },
+   "primaryUser": {
+    "id": 130736189,
+    "name": "Santi Ruiz",
+    "handle": "santir",
+    "photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F056cf268-92a4-4a07-b355-aeaeebaf8e57_2500x2500.png",
+    "bio": "Senior Editor @ ifp.org, writes statecraft.pub",
+    "profile_set_up_at": "2023-07-06T21:16:45.145Z",
+    "reader_installed_at": "2023-08-31T19:26:12.860Z"
+   },
+   "displayProfile": {
+    "userId": 130736189,
+    "name": "Santi Ruiz",
+    "handle": "santir",
+    "photo_url": "https://substackcdn.com/image/fetch/$s_!uIp_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F056cf268-92a4-4a07-b355-aeaeebaf8e57_2500x2500.png"
+   },
+   "author_name": "Santi Ruiz",
+   "author_photo_url": "https://substackcdn.com/image/fetch/$s_!uIp_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F056cf268-92a4-4a07-b355-aeaeebaf8e57_2500x2500.png"
+  },
+  "list_ids": [
+   0
+  ]
+ },
+ {
+  "id": 4917032,
+  "recommended_publication_id": 1810714,
+  "recommending_publication_id": 10025,
+  "created_at": "2025-01-21T20:02:42.231Z",
+  "updated_at": "2025-01-21T20:02:42.231Z",
+  "blurb_active": false,
+  "description": "Techno-optimism, magic, entertainment, and games. Ryan and crew bring it all. ",
+  "email_sent_at": "2025-01-25T08:32:20.961Z",
+  "recommendedPublication": {
+   "id": 1810714,
+   "name": "speedrun",
+   "subdomain": "speedrun",
+   "custom_domain": null,
+   "custom_domain_optional": false,
+   "hero_text": "Weekly insights for founders creating the future.",
+   "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/c39a07f4-03b8-449f-ab3f-e1587564b383_150x150.png",
+   "author_id": 157537399,
+   "primary_user_id": 157537399,
+   "theme_var_background_pop": "#6B26FF",
+   "created_at": "2023-07-17T22:50:42.674Z",
+   "email_from_name": "speedrun",
+   "copyright": "a16z speedrun",
+   "founding_plan_name": null,
+   "community_enabled": true,
+   "invite_only": false,
+   "payments_state": "disabled",
+   "language": null,
+   "explicit": false,
+   "homepage_type": "newspaper",
+   "is_personal_mode": false,
+   "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/2a94035e-37d8-4de2-8da8-a4773d1b67cf_915x177.png",
+   "author": {
+    "id": 157537399,
+    "name": "speedrun",
+    "handle": "speedrun",
+    "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/597cb684-5e5b-4d01-aaed-a363f28f412b_150x150.png",
+    "bio": "Create The Future.",
+    "profile_set_up_at": "2023-07-17T22:50:34.950Z",
+    "reader_installed_at": "2024-03-29T23:10:50.722Z"
+   },
+   "primaryUser": {
+    "id": 157537399,
+    "name": "speedrun",
+    "handle": "speedrun",
+    "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/597cb684-5e5b-4d01-aaed-a363f28f412b_150x150.png",
+    "bio": "Create The Future.",
+    "profile_set_up_at": "2023-07-17T22:50:34.950Z",
+    "reader_installed_at": "2024-03-29T23:10:50.722Z"
+   },
+   "displayProfile": {
+    "userId": 157537399,
+    "name": "speedrun",
+    "handle": "speedrun",
+    "photo_url": "https://substackcdn.com/image/fetch/$s_!H_NI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F597cb684-5e5b-4d01-aaed-a363f28f412b_150x150.png"
+   },
+   "author_name": "speedrun",
+   "author_photo_url": "https://substackcdn.com/image/fetch/$s_!H_NI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F597cb684-5e5b-4d01-aaed-a363f28f412b_150x150.png"
+  },
+  "list_ids": [
+   0
+  ]
+ }
+]

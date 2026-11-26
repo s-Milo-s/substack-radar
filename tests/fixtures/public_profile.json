@@ -1,0 +1,31 @@
+{
+ "id": 2417812,
+ "name": "Packy McCormick",
+ "handle": "notboring",
+ "bestseller_tier": 100,
+ "bestseller_badge_disabled": false,
+ "subscriberCount": "284K+",
+ "subscriberCountNumber": 284000,
+ "subscriberCountString": "284K+ subscribers",
+ "rough_num_free_subscribers": "Hundreds of thousands",
+ "rough_num_free_subscribers_int": 100000,
+ "followerCount": 379782,
+ "status": {
+  "bestsellerTier": 100,
+  "subscriberTier": 10,
+  "leaderboard": {
+   "ranking": "paid",
+   "rank": 28,
+   "publicationName": "Not Boring by Packy McCormick",
+   "label": "Business",
+   "categoryId": "62",
+   "publicationId": 10025
+  },
+  "vip": false,
+  "badge": {
+   "type": "bestseller",
+   "tier": 100
+  },
+  "subscriber": null
+ }
+}

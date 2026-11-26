@@ -1,0 +1,126 @@
+{
+ "posts": [
+  {
+   "id": 151628287,
+   "editor_v2": false,
+   "publication_id": 2302974,
+   "title": "Defense Tech Spotlight: Allen Control Systems",
+   "social_title": null,
+   "search_engine_title": null,
+   "search_engine_description": null,
+   "type": "newsletter",
+   "slug": "defense-tech-spotlight-allen-control",
+   "post_date": "2024-11-14T02:24:19.483Z",
+   "audience": "everyone",
+   "podcast_duration": null,
+   "video_upload_id": null,
+   "podcast_upload_id": null,
+   "write_comment_permissions": "everyone",
+   "should_send_free_preview": false,
+   "free_unlock_required": false,
+   "default_comment_sort": null,
+   "canonical_url": "https://dtvc.substack.com/p/defense-tech-spotlight-allen-control",
+   "section_id": null,
+   "top_exclusions": [],
+   "pins": [],
+   "is_section_pinned": false,
+   "section_slug": null,
+   "section_name": null,
+   "restacks": 0,
+   "restacked_post_id": null,
+   "restacked_post_slug": null,
+   "restacked_pub_name": null,
+   "restacked_pub_logo_url": null,
+   "subtitle": "Episode 11",
+   "cover_image": "https://substack-post-media.s3.amazonaws.com/public/images/32885a61-6bac-45c5-a3fa-807b851b04f4_1080x365.png",
+   "cover_image_is_square": false,
+   "cover_image_is_explicit": false,
+   "podcast_url": null,
+   "videoUpload": null,
+   "podcast_preview_upload_id": null,
+   "podcastUpload": null,
+   "podcastPreviewUpload": null,
+   "voiceover_upload_id": null,
+   "voiceoverUpload": null,
+   "has_voiceover": false,
+   "description": "Episode 11",
+   "has_dynamic_content": false,
+   "wordcount": 2818,
+   "post_preview_limit": null,
+   "language": "en",
+   "postTags": [],
+   "teaser_post_eligible": true,
+   "postCountryBlocks": [],
+   "disable_drop_cap": false,
+   "cover_image_crop": null,
+   "headlineTest": null,
+   "coverImagePalette": {
+    "Vibrant": {
+     "rgb": [
+      125.625,
+      129.375,
+      129.375
+     ],
+     "population": 0
+    },
+    "DarkVibrant": {
+     "rgb": [
+      65.325,
+      67.275,
+      67.275
+     ],
+     "population": 0
+    },
+    "LightVibrant": {
+     "rgb": [
+      187.725,
+      189.67499999999998,
+      189.67499999999998
+     ],
+     "population": 0
+    },
+    "Muted": {
+     "rgb": [
+      116,
+      120,
+      120
+     ],
+     "population": 39
+    },
+    "DarkMuted": {
+     "rgb": [
+      65,
+      71,
+      71
+     ],
+     "population": 51
+    },
+    "LightMuted": {
+     "rgb": [
+      186,
+      188,
+      188
+     ],
+     "population": 12
+    }
+   },
+   "reaction": null,
+   "reaction_count": 3,
+   "comment_count": 0,
+   "child_comment_count": 0,
+   "audio_items": [
+    {
+     "post_id": 151628287,
+     "voice_id": "en-US-ChristopherMultilingualNeural",
+     "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/151628287/tts/24c7d168-717a-4cd0-8945-70ac13c48c28/en-US-ChristopherMultilingualNeural.mp3",
+     "type": "tts",
+     "status": "completed"
+    }
+   ],
+   "is_geoblocked": false,
+   "is_editor_preview": false,
+   "hasCashtag": false
+  }
+ ],
+ "nextCursor": "eyJwb3N0X2RhdGUiOiIyMDI0LTExLTE0VDAyOjI0OjE5LjQ4MzE5NloifQ=="
+}

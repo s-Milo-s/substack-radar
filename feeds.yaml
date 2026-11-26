@@ -1,0 +1,43 @@
+# Publications to watch. Substack RSS lives at <publication-url>/feed.
+# tier: anchor (big, comment for reach) | peer (similar size, swap partner) | news (hooks only)
+# lane: which sector lane the writer fits (one of `lanes:` below). Daily picks rotate lanes.
+# Add a writer in one line:  python -m radar add <url> --tier peer --lane ai-infra
+
+# Sector lanes. Discovery labels each pick with one; the scorecard reports growth per lane.
+lanes: [ai-infra, dev-tools, hard-tech, defense, space, fintech, startups, geopolitics]
+
+# Optional: your own public subscriber count. Discovery calls a writer an `anchor` when they
+# have ~10x this many subscribers (or a bestseller badge), else a `peer`. Unset = assume 500.
+me:
+  subscribers:
+
+publications:
+  - {name: Defense Tech and Acquisition, url: https://defenseacquisition.substack.com, tier: anchor, lane: defense}
+  - {name: Investing 101, url: https://investing101.substack.com, tier: anchor, lane: startups}
+  - {name: ChinaTalk, url: https://www.chinatalk.media, tier: anchor, lane: geopolitics}
+  - {name: Chris Miller's Newsletter, url: https://chrismillersnewsletter.substack.com, tier: anchor, lane: hard-tech}
+  - {name: Riskgaming, url: https://blog.riskgaming.com, tier: anchor, lane: hard-tech}   # moved from www.riskgaming.com (Nov 2026)
+  - {name: Faster Please, url: https://fasterplease.substack.com, tier: anchor, lane: hard-tech}
+  - {name: Rational Optimist Society, url: https://rationaloptimistsociety.substack.com, tier: anchor, lane: hard-tech}
+  - {name: Not Boring, url: https://www.notboring.co, tier: anchor, lane: startups}
+  - {name: Defense Technology Venture Capital, url: https://dtvc.substack.com, tier: peer, lane: defense}   # last post Nov 2024
+  - {name: American Forge Institute, url: https://lukeringlein.substack.com, tier: peer, lane: defense}   # publication gone (redirects to a profile)
+  - {name: Jeff Burke, url: https://jeffburke.substack.com, tier: peer, lane: ai-infra}   # last post Jul 2024
+  - {name: Zach Glabman, url: https://zachglabman.substack.com, tier: peer, lane: startups}   # feed/API return 400/403
+  - {name: Austin Gray, url: https://austinegray.substack.com, tier: peer, lane: defense}
+  - {name: Matthew Bernard, url: https://matthewbernard776320.substack.com, tier: peer, lane: defense}
+  - {name: Ill-Defined Space, url: https://illdefinedspace.substack.com, tier: peer, lane: space}
+  - {name: Cyclop SpaceTech, url: https://cyclopspacetech.substack.com, tier: peer, lane: space}
+  - {name: Spacelytics, url: https://spacelytics.substack.com, tier: peer, lane: space}   # last post Dec 2021
+  - {name: New Space Economy, url: https://newspaceeconomy.substack.com, tier: peer, lane: space}
+  - {name: Emerging Defense, url: https://emergingdefense.substack.com, tier: news, lane: defense}
+  - {name: Defense Tech and VC Updates, url: https://defensevc.substack.com, tier: news, lane: defense}   # 404 (deleted)
+
+# Companies you've written about. News on these = a reason to re-share the essay.
+watch:
+  - company: Nominal
+    query: '"Nominal" hardware test data startup'
+    essay_url: https://YOUR-PUB.substack.com/p/nominal   # set after publishing
+  - company: Sift
+    query: '"Sift Stack" OR "Sift" telemetry hardware'   # loose queries match unrelated news
+    essay_url: https://YOUR-PUB.substack.com/p/nominal
