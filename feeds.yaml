@@ -34,6 +34,14 @@ publications:
   - {name: Defense Tech and VC Updates, url: https://defensevc.substack.com, tier: news, lane: defense}   # 404 (deleted)
 
 # Companies you've written about. News on these = a reason to re-share the essay.
+  - {name: Gray Matters, url: https://maggiegray.us, tier: peer, lane: defense}
+  - {name: Luke Chen | Abundant Defense, url: https://lukechen.substack.com, tier: peer, lane: defense}
+  - {name: First Breakfast, url: https://www.firstbreakfast.com, tier: anchor, lane: defense}
+  - {name: Molding Moonshots, url: https://aaronpickard.substack.com, tier: peer, lane: space}
+  - {name: Contrary Research, url: https://contraryresearch.substack.com, tier: anchor, lane: startups}
+  - {name: The Generalist, url: https://www.generalist.com, tier: anchor, lane: ai-infra}
+  - {name: ChinAI Newsletter, url: https://chinai.substack.com, tier: anchor, lane: geopolitics}
+  - {name: Newcomer, url: https://www.newcomer.co, tier: anchor, lane: startups}
 watch:
   - company: Nominal
     query: '"Nominal" hardware test data startup'
