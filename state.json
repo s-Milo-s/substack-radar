@@ -1,1 +1,8 @@
-{"seen": [], "note_queue": [], "posted_notes": []}
+{
+  "seen": [],
+  "note_queue": [],
+  "posted_notes": [],
+  "rejected_writers": [],
+  "last_lanes": [],
+  "essays": {}
+}
